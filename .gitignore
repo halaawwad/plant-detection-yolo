@@ -1,0 +1,37 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Training datasets
+Dataset/
+Dataset_target_specific/
+flower_photos/
+hard_negatives/
+NEW/
+rose_boost/
+plant12/
+
+# YOLO training output
+runs/
+
+# Archives
+*.zip
+*.tgz
+*.tar
+*.gz
+
+# Base pretrained YOLO weights
+yolov8n.pt
+yolov8n-cls.pt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Storepi_deploy/
+pi_deploy/

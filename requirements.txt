@@ -1,0 +1,5 @@
+depthai
+opencv-python
+ultralytics
+numpy
+pyserial
